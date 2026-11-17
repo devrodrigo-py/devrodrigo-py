@@ -11,7 +11,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
-[Entre em contato](mailto:dev.rodrigo.py@gmail.com) · [Explore meus repositórios públicos](https://github.com/devrodrigo-py?tab=repositories&type=public)
+[Explore meus repositórios públicos](https://github.com/devrodrigo-py?tab=repositories&type=public)
 
 </div>
 
@@ -60,7 +60,6 @@ Interface de reprodução e gerenciamento de transmissões, com listas M3U, guia
 
 <div align="center">
 
-**Vamos conversar sobre software e processos?**  
-[dev.rodrigo.py@gmail.com](mailto:dev.rodrigo.py@gmail.com)
+**Processos bem compreendidos. Software bem construído.**
 
 </div>
